@@ -2,6 +2,8 @@ Remote Access Trojan is a lightweight, non-solicited Python Trojan.
 It is written in 1 script, and is controlled via a telegram bot. 
 It runs on an infected PC.
 -------------------------------------------------------------------------------------------------
+how start it : pip install pillow python-telegram-bot
+-------------------------------------------------------------------------------------------------
 Disclaimer
 
 This product is provided for informational and educational purposes only. 
